@@ -4,3 +4,5 @@
 2. shell consist of 2 types -->
 
 2.1. Graphical user interface aka gui example windows explorer
+
+2.2. Command line interface aka cli example command shell and bash shell
