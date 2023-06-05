@@ -1,1 +1,5 @@
+commands list -->
 
+
+touch --> create file
+touch filename.txt
