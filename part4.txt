@@ -9,3 +9,6 @@ start filename.txt
 
 code --> open file in vscode
 code filename.txt
+
+rm --> remove/delete file
+rm filename.txt
