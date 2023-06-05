@@ -3,3 +3,6 @@ commands list -->
 
 touch --> create file
 touch filename.txt
+
+start --> open file
+start filename.txt
