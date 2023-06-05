@@ -8,3 +8,5 @@ Command line techniques and directory navigation -->
 
 
 cd ~ --> root level
+
+cd .. --> return back to previous folder/directory
