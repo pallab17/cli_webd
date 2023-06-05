@@ -6,3 +6,6 @@ touch filename.txt
 
 start --> open file
 start filename.txt
+
+code --> open file in vscode
+code filename.txt
