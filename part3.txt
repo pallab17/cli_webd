@@ -1,1 +1,7 @@
+Command line techniques and directory navigation -->
 
+     work                                           command
+
+1. list files and directories                         ls
+
+2. change directories                                  cd
