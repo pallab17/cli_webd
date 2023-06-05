@@ -17,3 +17,7 @@ pwd --> print working directory
 
 rm * --> removeall/deleteall files in the working directory
 rm *
+
+rm -r foldername/ --> removes/delete a folder or directory
+rm -r files/
+
