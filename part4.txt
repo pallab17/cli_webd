@@ -12,3 +12,6 @@ code filename.txt
 
 rm --> remove/delete file
 rm filename.txt
+
+rm * --> removeall/deleteall files in the working directory
+rm *
