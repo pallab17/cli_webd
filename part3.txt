@@ -4,4 +4,7 @@ Command line techniques and directory navigation -->
 
 1. list files and directories                         ls
 
-2. change directories                                  cd
+2. change directories                                 cd
+
+
+cd ~ --> root level
