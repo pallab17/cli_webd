@@ -19,3 +19,4 @@ for forward traversal --> we have to write the folder name of the target travers
 editing the commands -->
 
 ctrl plus A --> start of command line
+ctrl plus E --> end of command line
