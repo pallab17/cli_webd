@@ -10,3 +10,5 @@ Command line techniques and directory navigation -->
 cd ~ --> root level
 
 cd .. --> return back to previous folder/directory
+
+for backward traversal --> we have to write the entire directory of the target traversal
