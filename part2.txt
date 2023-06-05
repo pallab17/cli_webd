@@ -1,1 +1,2 @@
 
+1. shell in computing - it is basically the ui which we human beings use to interact with kernel and in turn with the hardware
