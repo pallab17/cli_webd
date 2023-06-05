@@ -24,4 +24,4 @@ ctrl plus U --> undo command line
 
 alt + click mouse --> edit at a faster speed at a random position
 
-
+left and right arrows to traverse the command
