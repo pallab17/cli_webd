@@ -1,2 +1,6 @@
 
 1. shell in computing - it is basically the ui which we human beings use to interact with kernel and in turn with the hardware
+
+2. shell consist of 2 types -->
+
+2.1. Graphical user interface aka gui example windows explorer
