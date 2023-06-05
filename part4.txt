@@ -13,5 +13,7 @@ code filename.txt
 rm --> remove/delete file
 rm filename.txt
 
+pwd --> print working directory
+
 rm * --> removeall/deleteall files in the working directory
 rm *
