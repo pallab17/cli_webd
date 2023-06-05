@@ -21,3 +21,7 @@ editing the commands -->
 ctrl plus A --> start of command line
 ctrl plus E --> end of command line
 ctrl plus U --> undo command line
+
+alt + click mouse --> edit at a faster speed at a random position
+
+
